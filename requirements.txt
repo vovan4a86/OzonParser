@@ -3,4 +3,4 @@ pandas
 playwright
 aiohttp
 urllib3
-dotenv
+python-dotenv
